@@ -1,0 +1,99 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor Files
+.vscode/
+.idea/
+*.suo
+*.ntvs_analysis.dat
+*.ncb
+*.sdf
+*.sqlite
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.suo
+*.user
+*.sln
+launchSettings.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+*.egg-info/
+*.egg
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+
+# Maven
+.mvn/
+!mvnw
+!mvnw.cmd
+
+# Gradle
+.gradle/
+build/
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+vendor/
+
+# PHP
+vendor/
+composer.lock
+
+# Log Files
+*.log
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Sensitive Data
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+
+# Coverage Reports
+coverage/
+*.lcov
+
+# Build Artifacts
+dist/
+build/
+*.zip
+*.tar.gz
+
+# Documentation
+*.pdf
+*.docx
+*.xlsx
+
+# Docker
+Dockerfile
+docker-compose.yml
+*.dockerignore
